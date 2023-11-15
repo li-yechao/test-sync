@@ -1,4 +1,4 @@
-name: Hello World
+name: Hello World v1
 prompts:
   - id: "1"
     content: Say hello in {{language}}!
