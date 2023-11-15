@@ -1,4 +1,4 @@
-name: Hello World v2
+name: Hello World v2 github
 prompts:
   - id: "1"
     content: Say hello in {{language}}!
