@@ -1,4 +1,9 @@
-name: Hello World v2 github
+id: 20231115185759-f9CDyd
+createdAt: 2023-09-30T12:23:04.603Z
+updatedAt: 2023-09-30T12:23:04.603Z
+createdBy: zNKd7u2hqCbEpKMcQtwecez98abdZpLadvwF
+updatedBy: zNKd7u2hqCbEpKMcQtwecez98abdZpLadvwF
+name: Hello World v3 local
 prompts:
   - id: "1"
     content: Say hello in {{language}}!
@@ -6,9 +11,4 @@ prompts:
 parameters:
   language:
     defaultValue: English
-createdBy: zNKd7u2hqCbEpKMcQtwecez98abdZpLadvwF
-updatedBy: zNKd7u2hqCbEpKMcQtwecez98abdZpLadvwF
-createdAt: 2023-09-30T12:23:04.603Z
-updatedAt: 2023-09-30T12:23:04.603Z
 public: false
-id: 20231115185759-f9CDyd
