@@ -1,11 +1,23 @@
+type: image
 name: Hello World
 prompts:
   - id: "1"
     content: Say hello in {{language}}!
     role: user
+  - id: iaxK1i6f7E2HZlw8saasG
+    role: call-prompt
+    output: hello
+    template:
+      id: 20231116200909-nvfLFz
+      name: hello
+  - id: MrmbtDBpk7E0OIVEhMUZf
+    content: "{{ hello }}"
+    role: user
 parameters:
   language:
+    type: string
     defaultValue: English
+    required: false
 createdBy: zNKd7u2hqCbEpKMcQtwecez98abdZpLadvwF
 updatedBy: zNKd7u2hqCbEpKMcQtwecez98abdZpLadvwF
 createdAt: 2023-09-30T12:23:04.603Z
