@@ -3,7 +3,7 @@ createdAt: 2023-09-30T12:23:04.603Z
 updatedAt: 2023-09-30T12:23:04.603Z
 createdBy: zNKd7u2hqCbEpKMcQtwecez98abdZpLadvwF
 updatedBy: zNKd7u2hqCbEpKMcQtwecez98abdZpLadvwF
-name: Hello World v3 local 8
+name: Main
 prompts:
   - id: "1"
     content: Say hello in {{language}}! 123
