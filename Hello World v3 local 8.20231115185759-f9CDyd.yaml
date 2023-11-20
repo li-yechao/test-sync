@@ -6,7 +6,7 @@ updatedBy: zNKd7u2hqCbEpKMcQtwecez98abdZpLadvwF
 name: Hello World v3 local 8
 prompts:
   - id: "1"
-    content: Say hello in {{language}}!
+    content: Say hello in {{language}}! 123
     role: user
 parameters:
   language:
