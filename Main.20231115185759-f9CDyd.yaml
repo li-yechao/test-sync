@@ -6,7 +6,7 @@ updatedBy: zNKd7u2hqCbEpKMcQtwecez98abdZpLadvwF
 name: Main
 prompts:
   - id: "1"
-    content: Say hello in {{language}}! 123
+    content: "Say hello in {{language}}! "
     role: user
 parameters:
   language:
